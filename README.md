@@ -1,6 +1,6 @@
 # Git::Info
 
-TODO: Write a gem description
+Get Git information using system commands. 
 
 ## Installation
 
