@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`Git::Info.get_tags` - returns a hash of tags that the current ref is pointing to.
+
+`Git::Info.get_ref` - returns a ref for the current working tree.
+
 
 ## Contributing
 
